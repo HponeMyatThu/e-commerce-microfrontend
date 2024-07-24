@@ -1,0 +1,5 @@
+/products/node_modules
+/container/node_modules
+
+/products/package-lock.json
+/container/package-lock.json
